@@ -404,6 +404,7 @@ Main navigation
     padding-top: 30px;
     list-style:none;
     text-align:center;
+    border-bottom: black 1px solid;
   }
 
   .nav-style > ul > a {
