@@ -39,10 +39,9 @@ logo
 -------------------------------- */
 
 #logo {
-  position: fixed;
-  width: 60%;
-  margin: auto;
-  padding: 10px;
+  position: absolute;
+  top: 10px;
+  left: calc(50% - 86.5px);
 }
 
 /* --------------------------------
