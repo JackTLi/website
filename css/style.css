@@ -39,7 +39,10 @@ logo
 -------------------------------- */
 
 #logo {
-  position: absolute;
+  position: fixed;
+  width: 60%;
+  margin: auto;
+  padding: 10px;
 }
 
 /* --------------------------------
